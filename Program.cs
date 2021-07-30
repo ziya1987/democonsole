@@ -10,7 +10,7 @@ namespace Git_Demo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Git Tutorial - Console Writeline Change");
+            Console.WriteLine("Git Tutorial - Console Writeline Change Hub");
 
         }
     }
